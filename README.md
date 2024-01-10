@@ -4,12 +4,6 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.glitch.me/badge?page_id=wuyifan6688"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-stats.vercel.app/api?username=wuyifan6688&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true"
   />
 </p>
