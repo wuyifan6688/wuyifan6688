@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Juns</h1>
+<h1 align="center">Hi 👋, I'm Fan</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 <h3 align="center">20-year-old college student</h3>
 
 <p align="center">
   <img
-    src="https://visitor-badge.glitch.me/badge?page_id=Juns-g"
+    src="https://visitor-badge.glitch.me/badge?page_id=wuyifan6688"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Juns-g&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api?username=wuyifan6688&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true"
   />
 </p>
-
-
 
 <div align="center">
   <p>● 🌱 I’m currently learning <b>Frontend and Communication Engineering</b></p>
   <p>● 👨‍💻 All of my projects are available at [temp empty]()</p>
-  <p>● 📝 I regularly write articles on <a href="https://juns-g.github.io/">juns-g.github.io</a></p>
+  <p>● 📝 I regularly write articles on <a href="https://wuyifan6688.github.io/">wuyifan6688.github.io</a></p>
   <p>● 💬 Ask me about <b>CSS, Vue, React and so on</b></p>
   <p>● 📫 How to reach me <b>juns.g@foxmail.com</b></p>
   <p>● ⚡ Fun fact <b>Coding</b></p>
@@ -39,15 +37,15 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Juns-g&row=1&column=7"
-      alt="Juns-g"
+      src="https://github-profile-trophy.vercel.app/?username=wuyifan6688&row=1&column=7"
+      alt="wuyifan6688"
   /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juns-g&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyifan6688&layout=compact"
   />
 </p>
 <p align="center">
@@ -175,7 +173,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Juns-g&"
-    alt="Juns-g"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=wuyifan6688&"
+    alt="wuyifan6688"
   />
 </p>
