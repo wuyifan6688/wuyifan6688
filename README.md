@@ -13,7 +13,7 @@
 <!--   <p>● 👨‍💻 All of my projects are available at [temp empty]()</p> -->
 <!--   <p>● 📝 I regularly write articles on <a href="https://wuyifan6688.github.io/">wuyifan6688.github.io</a></p> -->
   <p>● 💬 Ask me about <b>CSS, Vue, React and so on</b></p>
-  <p>● 📫 How to reach me <b>juns.g@foxmail.com</b></p>
+<!--   <p>● 📫 How to reach me <b> .g@foxmail.com</b></p> -->
   <p>● ⚡ Fun fact <b>Coding</b></p>
 </div>
 
