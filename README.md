@@ -3,9 +3,9 @@
 <h3 align="center">20-year-old college student</h3>
 
 <p align="center">
-  <img
+<!--   <img
     src="https://github-readme-stats.vercel.app/api?username=wuyifan6688&show_icons=true&icon_color=5094F0&text_color=718096&bg_color=ffffff&hide_title=true"
-  />
+  /> -->
 </p>
 
 <div align="center">
