@@ -10,8 +10,8 @@
 
 <div align="center">
   <p>● 🌱 I’m currently learning <b>Frontend and Communication Engineering</b></p>
-  <p>● 👨‍💻 All of my projects are available at [temp empty]()</p>
-  <p>● 📝 I regularly write articles on <a href="https://wuyifan6688.github.io/">wuyifan6688.github.io</a></p>
+<!--   <p>● 👨‍💻 All of my projects are available at [temp empty]()</p> -->
+<!--   <p>● 📝 I regularly write articles on <a href="https://wuyifan6688.github.io/">wuyifan6688.github.io</a></p> -->
   <p>● 💬 Ask me about <b>CSS, Vue, React and so on</b></p>
   <p>● 📫 How to reach me <b>juns.g@foxmail.com</b></p>
   <p>● ⚡ Fun fact <b>Coding</b></p>
@@ -166,8 +166,8 @@
 </p>
 
 <p align="center">
-  <img
+<!--   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=wuyifan6688&"
     alt="wuyifan6688"
-  />
+  /> -->
 </p>
